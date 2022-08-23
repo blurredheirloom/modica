@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Games &#8211; Modica: città delle 100 chiese</title>
-	<atom:link href="/tag/games/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://blurredheirloom.github.io/modica/tag/games/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blurredheirloom.github.io/modica</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 Aug 2022 11:24:22 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>Ice Cream Maker Free Chocolate</title>
-		<link>/2022/08/23/ice-cream-maker-free-chocolate/</link>
-					<comments>/2022/08/23/ice-cream-maker-free-chocolate/#comments</comments>
+		<link>https://blurredheirloom.github.io/modica/2022/08/23/ice-cream-maker-free-chocolate/</link>
+					<comments>https://blurredheirloom.github.io/modica/2022/08/23/ice-cream-maker-free-chocolate/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 11:24:22 +0000</pubDate>
 				<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Games]]></category>
-		<guid isPermaLink="false">/2022/08/23/ice-cream-maker-free-chocolate/</guid>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/2022/08/23/ice-cream-maker-free-chocolate/</guid>
 
 					<description><![CDATA[[dropcap]S[/dropcap]tay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why not live smooth? Why live rough? The key to success is to keep your head above the water, never give up. Watch your back, but more importantly when you get out the shower, dry your [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[dropcap]S[/dropcap]tay focused and remember we design the best <a href="https://tielabs.com/" target="_blank" rel="noopener">WordPress News and Magazine Themes</a>. It’s the key to more success, why not live smooth? Why live rough? The key to success is to keep your head above the water, never give up. Watch your back, but more importantly when you get out the shower, dry your back, it’s a cold world out there.</p>
@@ -72,7 +72,7 @@ They never said winning was easy. Some people can’t handle success, I can. You
 <p>Major key, don’t fall for the trap, stay focused. It’s the ones closest to you that want to see you fail. Another one. It’s important to use cocoa butter. It’s the key to more success, why not live smooth? Why live rough? The key to success is to keep your head above the water, never give up. Watch your back, but more importantly when you get out the shower, dry your back, it’s a cold world out there.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/08/23/ice-cream-maker-free-chocolate/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blurredheirloom.github.io/modica/2022/08/23/ice-cream-maker-free-chocolate/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

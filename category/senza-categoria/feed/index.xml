@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Senza categoria &#8211; Modica: città delle 100 chiese</title>
-	<atom:link href="/category/senza-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://blurredheirloom.github.io/modica/category/senza-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blurredheirloom.github.io/modica</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 Aug 2022 10:23:59 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>Ciao mondo!</title>
-		<link>/2022/08/23/ciao-mondo/</link>
-					<comments>/2022/08/23/ciao-mondo/#comments</comments>
+		<link>https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/</link>
+					<comments>https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 10:23:59 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1</guid>
 
 					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!]]></description>
 										<content:encoded><![CDATA[
 <p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/08/23/ciao-mondo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

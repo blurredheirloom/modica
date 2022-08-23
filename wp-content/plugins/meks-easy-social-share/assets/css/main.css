@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: "socicon";
-    src: url("/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.eot");
-    src: url("/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.eot#iefix") format("embedded-opentype"), url("/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.woff") format("woff"), url("/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.ttf") format("truetype"), url("/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.svg#socicon") format("svg");
+    src: url("https://blurredheirloom.github.io/modica/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.eot");
+    src: url("https://blurredheirloom.github.io/modica/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.eot#iefix") format("embedded-opentype"), url("https://blurredheirloom.github.io/modica/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.woff") format("woff"), url("https://blurredheirloom.github.io/modica/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.ttf") format("truetype"), url("https://blurredheirloom.github.io/modica/wp-content/plugins/meks-easy-social-share/assets/fonts/socicon.svg#socicon") format("svg");
     font-weight: normal;
     font-style: normal;
 }

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Ciao mondo!	</title>
-	<atom:link href="/2022/08/23/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
-	<link>/2022/08/23/ciao-mondo/</link>
+	<atom:link href="https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 Aug 2022 10:23:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Di: Un commentatore di WordPress		</title>
-		<link>/2022/08/23/ciao-mondo/#comment-1</link>
+		<link>https://blurredheirloom.github.io/modica/2022/08/23/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 10:23:59 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1#comment-1</guid>
 
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
