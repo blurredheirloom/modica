@@ -12,7 +12,7 @@
 	<atom:link href="https://blurredheirloom.github.io/modica/feed/" rel="self" type="application/rss+xml" />
 	<link>https://blurredheirloom.github.io/modica</link>
 	<description></description>
-	<lastBuildDate>Tue, 23 Aug 2022 17:51:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Aug 2022 16:04:58 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,36 +20,199 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
-		<title>Sant&#8217;agostino</title>
-		<link>https://blurredheirloom.github.io/modica/santagostino/</link>
+		<title>Santa Veneranda</title>
+		<link>https://blurredheirloom.github.io/modica/santa-veneranda/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 23 Aug 2022 17:33:51 +0000</pubDate>
+		<pubDate>Wed, 24 Aug 2022 16:04:57 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<category><![CDATA[agostino]]></category>
-		<category><![CDATA[bicatex]]></category>
-		<category><![CDATA[hotel bristol]]></category>
-		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1100</guid>
+		<category><![CDATA[venera]]></category>
+		<category><![CDATA[veneranda]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1376</guid>
 
-					<description><![CDATA[La chiesa e l’attiguo convento vennero edificati nel 1623 dagli eremiti agostiniani, che risiedevano nel primitivo Convento attiguo alla Chiesa di San Marco. La facciata venne ricostruita appena dopo il terremoto, nel 1713, data che si leggeva sotto lo scudo della Contea di Modica riportato nella facciata.Quando nel 1870 i beni agostiniani furono incamerati venne [&#8230;]]]></description>
+					<description><![CDATA[Distrutta. Sorgeva in fondo al vicolo II Santa Veneranda, quasi a ridosso di spelonche trogloditiche. Esistente dal 1600.]]></description>
 										<content:encoded><![CDATA[
-<p class="has-large-font-size">La chiesa e l’attiguo convento vennero edificati nel 1623 dagli eremiti agostiniani, che risiedevano nel primitivo Convento attiguo alla Chiesa di San Marco. <br>La facciata venne ricostruita appena dopo il terremoto, nel 1713, data che si leggeva sotto lo scudo della Contea di Modica riportato nella facciata.<br>Quando nel 1870 i beni agostiniani furono incamerati venne acquistato per privata abitazione dal barone Rosso. Successivamente rivenduto, venne trasformato in albergo (Hotel Bristol). Venne poi demolita nel 1964.</p>
+<p><strong>Distrutta</strong>. Sorgeva in fondo al vicolo II Santa Veneranda, quasi a ridosso di spelonche trogloditiche. Esistente dal 1600.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>San Vito</title>
+		<link>https://blurredheirloom.github.io/modica/san-vito/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:04:26 +0000</pubDate>
+				<category><![CDATA[Abitazione Privata]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[abitazione privata]]></category>
+		<category><![CDATA[privata]]></category>
+		<category><![CDATA[vito]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1374</guid>
 
+					<description><![CDATA[Demolita. Ubicata in via San Vito al n° 7. L&#8217;interno è stato trasformato in orto.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Demolita</strong>. Ubicata in via San Vito al n° 7. L&#8217;interno è stato trasformato in orto. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>San Vincenzo</title>
+		<link>https://blurredheirloom.github.io/modica/san-vincenzo/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:03:57 +0000</pubDate>
+				<category><![CDATA[Abitazione Privata]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[abitazione privata]]></category>
+		<category><![CDATA[privata]]></category>
+		<category><![CDATA[vincenzo]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1372</guid>
 
+					<description><![CDATA[Distrutta. Sorgeva nell&#8217;attuale vico di San Vincenzo. Ora casa privata. Esistente dal 1600.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Distrutta</strong>. Sorgeva nell&#8217;attuale vico di San Vincenzo. Ora casa privata. Esistente dal 1600. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SS. Trinità</title>
+		<link>https://blurredheirloom.github.io/modica/ss-trinita/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:03:24 +0000</pubDate>
+				<category><![CDATA[Abitazione Privata]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[abitazione privata]]></category>
+		<category><![CDATA[privata]]></category>
+		<category><![CDATA[trinità]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1370</guid>
 
-<figure class="wp-block-image size-full is-resized"><img src="https://blurredheirloom.github.io/modica/wp-content/uploads/2022/08/44942050_496176280900996_7185560447477612544_n.jpg" alt="" class="wp-image-1101" width="751" height="751"/></figure>
+					<description><![CDATA[Demolita nel 1937. Ora casa privata. Esistente dal 1650 o 1660.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Demolita</strong> nel 1937. Ora casa privata. Esistente dal 1650 o 1660. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>San Sebastiano</title>
+		<link>https://blurredheirloom.github.io/modica/san-sebastiano/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:02:48 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[convento]]></category>
+		<category><![CDATA[francesco]]></category>
+		<category><![CDATA[francesco alla cava]]></category>
+		<category><![CDATA[sebastian]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1368</guid>
 
+					<description><![CDATA[Demolita. Sorgeva nel recinto dove, nel 1570, venne edificato il Convento detto di San Francesco alla Cava.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Demolita</strong>. Sorgeva nel recinto dove, nel 1570, venne edificato il Convento detto di San Francesco alla Cava. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Santa Scolastica</title>
+		<link>https://blurredheirloom.github.io/modica/santa-scolastica/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:02:02 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[palazzo dei tribunali]]></category>
+		<category><![CDATA[scolastica]]></category>
+		<category><![CDATA[tribunale]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1366</guid>
 
+					<description><![CDATA[Demolita. Oggi plesso attiguo al Palazzo dei Tribunali.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Demolita</strong>. Oggi plesso attiguo al Palazzo dei Tribunali. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dello Spirito Santo</title>
+		<link>https://blurredheirloom.github.io/modica/dello-spirito-santo/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:01:30 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[spirito santo]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1364</guid>
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="471" src="https://blurredheirloom.github.io/modica/wp-content/uploads/2022/08/44998333_496176360900988_3561973952332955648_n.jpg" alt="" class="wp-image-1102"/></figure>
+					<description><![CDATA[Distrutta nel 1927. Esistente dal 1600.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Distrutta</strong> nel 1927. Esistente dal 1600. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Santa Sofia</title>
+		<link>https://blurredheirloom.github.io/modica/santa-sofia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:01:07 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[sofia]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1362</guid>
 
+					<description><![CDATA[Demolita. Trasformata in bottega da fabbro ferraio.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Demolita</strong>. Trasformata in bottega da fabbro ferraio. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>San Silvestro a Ressabia</title>
+		<link>https://blurredheirloom.github.io/modica/san-silvestro-a-ressabia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 16:00:38 +0000</pubDate>
+				<category><![CDATA[Abitazione Privata]]></category>
+		<category><![CDATA[abitazione privata]]></category>
+		<category><![CDATA[privata]]></category>
+		<category><![CDATA[ressabia]]></category>
+		<category><![CDATA[silvestro]]></category>
+		<category><![CDATA[silvestro a ressabia]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1360</guid>
 
+					<description><![CDATA[Fuori dalla città nella contrada omonima. Trasformata in rustica abitazione e fa parte di un complesso di fabbricati di campagna.]]></description>
+										<content:encoded><![CDATA[
+<p>Fuori dalla città nella contrada omonima. Trasformata in rustica abitazione e fa parte di un complesso di fabbricati di campagna. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Santa Rosalia</title>
+		<link>https://blurredheirloom.github.io/modica/santa-rosalia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 15:59:45 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[rosalia]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1358</guid>
 
-<p class="has-large-font-size">Venne poi demolito nel 1965 quando la ditta Biscari Giuseppe e fratelli Catania, acquirenti dell’intero Palazzo, presentarono il progetto al Comune di Modica, che prevedeva la demolizione dell’Albergo Bristol per realizzare al suo posto un fabbricato, il palazzo Bicatex (che non era altro che l’acronimo di Biscari-Catania-Tessuti), che può essere definito uno dei primi centri commerciali della Sicilia e che ancora oggi rappresenta, per molti, una nota stonata , nel cuore della città, lungo Corso Umberto.</p>
-
-
-
-<blockquote class="wp-block-quote has-normal-font-size"><p>Lì&nbsp;presso&nbsp;va&nbsp;perfezionandosi&nbsp;un&nbsp;Convento&nbsp;dal&nbsp;religiosissimo&nbsp;cavaliere&nbsp;dell&#8217;ordine&nbsp;di&nbsp;S.&nbsp;Giacomo&nbsp;,&nbsp;Francesco&nbsp;Bolles. Dal&nbsp;medesimo&nbsp;si&nbsp;prestano&nbsp;gli&nbsp;alimenti&nbsp;a&nbsp;&#8216;&nbsp;religiosi&nbsp;,&nbsp;ed&nbsp;agli&nbsp;altri&nbsp;dell&#8217;ordine&nbsp;di&nbsp;S.&nbsp;Agostino&nbsp;nel&nbsp;Convento&nbsp;di&nbsp;S.&nbsp;Marco&nbsp;,&nbsp;nel&nbsp;quale&nbsp;a&nbsp;23&nbsp;d&nbsp;&#8216;&nbsp;aprilo&nbsp;1651&nbsp;venne&nbsp;proclamato&nbsp;per&nbsp;Regio&nbsp;Decreto&nbsp;,&nbsp;gran&nbsp;maestro&nbsp;dell&#8217;ordine&nbsp;.</p><p>[&#8230;]</p><p>L&#8217;ordine&nbsp;di&nbsp;S.&nbsp;Agostino&nbsp;ſu&nbsp;estinto&nbsp;per&nbsp;disposizione&nbsp;del&nbsp;cessalo&nbsp;Gover&nbsp;no&nbsp;,&nbsp;ed&nbsp;i&nbsp;beni&nbsp;furono&nbsp;incamerati&nbsp;dallo&nbsp;stesso&nbsp;.&nbsp;</p><cite>Placido Carrafa, <a href="https://books.google.it/books?id=ePXYNPshwnAC"><em>&#8220;</em></a><em><a href="https://books.google.it/books?id=ePXYNPshwnAC" target="_blank" rel="noreferrer noopener">Prospetto </a></em><a href="https://books.google.it/books?id=ePXYNPshwnAC"><em>corografico istorico di Modica di Placido Carrafa&#8221;</em></a></cite></blockquote>
+					<description><![CDATA[Nessun rinvenimento di ruderi o vestigie.]]></description>
+										<content:encoded><![CDATA[
+<p>Nessun rinvenimento di ruderi o vestigie. </p>
 ]]></content:encoded>
 					
 		
