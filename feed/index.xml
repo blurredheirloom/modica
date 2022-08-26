@@ -12,7 +12,7 @@
 	<atom:link href="https://blurredheirloom.github.io/modica/feed/" rel="self" type="application/rss+xml" />
 	<link>https://blurredheirloom.github.io/modica</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Aug 2022 16:04:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Aug 2022 18:18:51 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,28 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>San Cristoforo</title>
+		<link>https://blurredheirloom.github.io/modica/san-cristoforo/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 18:18:50 +0000</pubDate>
+				<category><![CDATA[Abitazione Privata]]></category>
+		<category><![CDATA[abitazione privata]]></category>
+		<category><![CDATA[cirstoforo]]></category>
+		<category><![CDATA[grimaldi]]></category>
+		<category><![CDATA[pietro]]></category>
+		<category><![CDATA[privata]]></category>
+		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1394</guid>
+
+					<description><![CDATA[Cappella privata della famiglia Grimaldi. Rimane solo il portale del XVIII &#8211; XIX secolo annesso a Palazzo Grimaldi, nella via omonima a poche decine di metri dal Duomo di S. Pietro.]]></description>
+										<content:encoded><![CDATA[
+<p>Cappella privata della famiglia Grimaldi. Rimane solo il portale del XVIII &#8211; XIX secolo annesso a Palazzo Grimaldi, nella via omonima a poche decine di metri dal Duomo di S. Pietro.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Santa Veneranda</title>
 		<link>https://blurredheirloom.github.io/modica/santa-veneranda/</link>
 		
@@ -195,24 +217,6 @@
 					<description><![CDATA[Fuori dalla città nella contrada omonima. Trasformata in rustica abitazione e fa parte di un complesso di fabbricati di campagna.]]></description>
 										<content:encoded><![CDATA[
 <p>Fuori dalla città nella contrada omonima. Trasformata in rustica abitazione e fa parte di un complesso di fabbricati di campagna. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Santa Rosalia</title>
-		<link>https://blurredheirloom.github.io/modica/santa-rosalia/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 24 Aug 2022 15:59:45 +0000</pubDate>
-				<category><![CDATA[Senza categoria]]></category>
-		<category><![CDATA[rosalia]]></category>
-		<guid isPermaLink="false">https://blurredheirloom.github.io/modica/?p=1358</guid>
-
-					<description><![CDATA[Nessun rinvenimento di ruderi o vestigie.]]></description>
-										<content:encoded><![CDATA[
-<p>Nessun rinvenimento di ruderi o vestigie. </p>
 ]]></content:encoded>
 					
 		
